@@ -1,12 +1,14 @@
 * text=auto
 
-README.md text ident
+README.md text ident diff=markdown linguist-documentation
 *.md      text diff=markdown linguist-documentation
 LICENSE   text linguist-documentation linguist-language=Markdown
 TODO      text linguist-documentation linguist-language=Markdown
 *.gcode   text linguist-generated linguist-language=G-code
 
+*.3mf     binary diff=zip linguist-generated
 *.jpg     binary
 *.png     binary
-*.f3z     binary
-*.stl     binary
+*.f3z     binary diff=zip linguist-generated
+*.stl     binary linguist-generated
+
