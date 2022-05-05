@@ -1,0 +1,12 @@
+* text=auto
+
+README.md text ident
+*.md      text diff=markdown
+CHANGELOG text diff=markdown
+LICENSE   text
+TODO      text
+
+*.jpg     binary
+*.png     binary
+*.f3z     binary
+*.stl     binary

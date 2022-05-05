@@ -1,5 +1,7 @@
 # The Unicorne
 
+Current revision: $Id$
+
 A single-piece corne keyboard mod and case.
 
 Unicorne is a Corne keyboard coupled with a hinged unibody case based on ["Corne Travel Case"](https://www.thingiverse.com/thing:4921564) by [denniskempin](https://www.thingiverse.com/denniskempin).
