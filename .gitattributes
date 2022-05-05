@@ -1,10 +1,10 @@
 * text=auto
 
 README.md text ident
-*.md      text diff=markdown
-CHANGELOG text diff=markdown
-LICENSE   text
-TODO      text
+*.md      text diff=markdown linguist-documentation
+LICENSE   text linguist-documentation linguist-language=Markdown
+TODO      text linguist-documentation linguist-language=Markdown
+*.gcode   text linguist-generated linguist-language=G-code
 
 *.jpg     binary
 *.png     binary
