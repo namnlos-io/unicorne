@@ -1,0 +1,3 @@
+[submodule "kbd"]
+	path = pcb/unicorne/kbd
+	url = https://github.com/foostan/kbd

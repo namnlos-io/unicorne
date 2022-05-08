@@ -1,4 +1,5 @@
 *.zip
+*.sch-bak
 .*.un~
 *.un~
 .*~
